@@ -63,6 +63,10 @@ ul.inline-list > li:last-child::after {
   content: '\a0·';
 }
 
+.ico {
+  max-width: 24rem;
+}
+
 @media(max-width: 850px) {
 	body {
 		width: calc(100% - 50px);
