@@ -1,0 +1,28 @@
+<html lang="en"><head>
+    <title>Devyn Boer VA</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Devyn’s past work and contact info lives here.">
+    <link rel="stylesheet" href="/style.css">
+  </head>
+  <body>
+
+<img src="/icon.png"/>
+<h2 about me</h2>
+
+<h2>projects</h2>
+<ul>
+</ul>
+<p>i’m active in a couple other places (like <a href="https://toaq.me">the toaq wiki</a> or a few cozy places on discord…). watch us shitpost about category theory and adjacents</p>
+
+<h2>contact</h2>
+
+<ul class="inline-list">
+  <li><a href="https://discord.com/users/231626573231554562">discord: @paneku</a></li>
+  <li><a href="mailto:devynrboer@gmail.com">email me: devynrboer@gmail.com</a></li>
+</ul>
+
+
+  
+
+</body></html>
