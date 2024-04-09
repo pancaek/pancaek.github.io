@@ -6,7 +6,7 @@ html {
 }
 
 body {
-    width: 800px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 50px 25px;
     display: block;
@@ -63,5 +63,7 @@ ul.info-list {
 
 
 .ico {
-    width: 24rem;
+    width: 50vmin;
+    min-width: 100px;
+    height: auto;
 }
