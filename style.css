@@ -15,7 +15,6 @@ body {
     line-height: 125%;
     text-align: center;
     color: #222;
-    background-color: #fff;
 }
 
 h1 {
@@ -50,8 +49,20 @@ ul {
     padding: 0;
 }
 
-ul.info-list {
+ul.info-list, p {
     line-height: 2;
+}
+
+p {font-size: 1.1rem;}
+.ico {
+    width: 40vmin;
+    min-width: 100px;
+    height: auto;
+    border: 3vmin solid #96e1fb;
+    border-radius: 50%;
+}
+.reel {
+    border-radius: 20px;
 }
 
 @media(max-width: 850px) {
@@ -59,11 +70,4 @@ ul.info-list {
         width: calc(100% - 50px);
         margin: 0;
     }
-}
-
-
-.ico {
-    width: 40vmin;
-    min-width: 100px;
-    height: auto;
 }
